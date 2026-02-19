@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pacs>
+    <listener ae="RADIANT" port="11112" filter="2" llock="0" />
+    <timeout>30</timeout>
+    <hosts>
+        <host name="43" ae="343" ip="4343" ts="1.2.840.10008.1.2.1" pts="1" port="3443" maxassoc="1" allpres="0" search="1" protocol="1" forcecharset="0" wildcards="3" carets="0" nonascii="0" />
+    </hosts>
+    <presets />
+    <lastsearch dt="1" mfid="1048592" />
+</pacs>

@@ -1,0 +1,32 @@
+﻿
+	Особенности репака:
+
+  1. Совмещённые в одном дистрибутиве установка программы или распаковка портативной (portable app формат) версии
+  2. Не требует регистрации (патч Downloadly.ir/piladus1700)
+  3. Мультиязычный интерфейс (включая русский /актуализирован/)
+  4. Возможность принудительной установки 32-bit версии на x64 систему
+  5. Возможность Ассоциировать расширение файла DICOM *.dcm с RadiAnt DICOM Viewer
+  6. Опционная возможность добавить программу в исключения Брандмауэра Windows (для инсталляции)
+  7. Подхватывает пользовательские настройки из файла settings.reg, если таковой находится рядом с инсталлятором
+  8. Возможность подхвата и автокопирования пользовательских файлов: options.xml, pacs.xml, localsettings.dat
+
+
+    "Тихая" установка с ключами /SILENT или /VERYSILENT (или файлом "Silent Install.cmd")
+    Для "Тихой" установки портативной версии дополнительный ключ /PORTABLE=1 (или файлом "Unpack Portable.cmd")
+
+ ******************************************************************************************************************
+
+	Features repack:
+
+ 1. Installation of the program combined with unpacking of the portable (portable app format) version
+ 2. Does not require registration (patch Downloadly.ir/piladus1700)
+ 3. Multilingual interface
+ 4. The ability to force install a 32bit version on x64 systems
+ 5. The ability to associate DICOM file extension *.dcm with RadiAnt DICOM Viewer
+ 6. Optional ability to add a program to the Windows Firewall exceptions (for installation)
+ 7. The ability to import settings from settings.reg (if located next to the installer) 
+ 8. The ability to pick up and auto-copy a user customization files: options.xml, pacs.xml, localsettings.dat
+
+
+   "Silent" installation with the /SILENT or /VERYSILENT switches (or the Silent Install.cmd file)
+   For the "silent" unpacking of the portable version, the additional key /PORTABLE=1 (or the file "Unpack Portable.cmd")
